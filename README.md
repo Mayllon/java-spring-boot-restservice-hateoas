@@ -9,7 +9,7 @@
 <h3 align="center">Java Spring Boot Restservice Hateoas</h3>
 <br />
 <div align="center">
-    <img src="src/main/resource/readme.png" alt="Logo" width="320" height="240">
+    <img src="src/main/resources/readme.png" alt="Logo" width="320" height="240">
 </div>
 <br />
 <div align="left">
@@ -43,12 +43,12 @@
   <ol>
     <li>
       <div align="left">
-        <img src="src/main/resource/listAll.png" alt="Image showing the request in postman with the service that lists all entities" width="320" height="240">
+        <img src="src/main/resources/listAll.png" alt="Image showing the request in postman with the service that lists all entities" width="320" height="240">
       </div>
     </li>
     <li>
     <div align="left">
-        <img src="src/main/resource/getById.png" alt="Image showing request in postman with service returns an entity by id" width="320" height="240">
+        <img src="src/main/resources/getById.png" alt="Image showing request in postman with service returns an entity by id" width="320" height="240">
     </div>    
     </li>
   </ol>
