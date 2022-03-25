@@ -11,18 +11,13 @@
 <div align="center">
     <img src="src/main/resources/readme.png" alt="Logo" width="320" height="240">
 </div>
-<br />
+<details>
+  <summary>How to run :robot:</summary>
 <div align="left">
-    <p align="left">
-        Project focused on exemplifying real cases of using the functional programming paradigm with Java Streams.
-    </p>
-    <p align="left">
-        As I advance in my studies, I will feed the project, always looking for clearer, reusable and performative solutions.
-    </p>
-    <p align="left">
-        I hope this project is as useful to you as many others were to me.
-    </p>
+    <br />
+    <p>mvn clean install spring-boot:run</p>
 </div>
+</details>
 <br />
 <details>
   <summary>Built with :nerd_face:</summary>
@@ -43,12 +38,12 @@
   <ol>
     <li>
       <div align="left">
-        <img src="src/main/resources/listAll.png" alt="Image showing the request in postman with the service that lists all entities" width="320" height="240">
+        <img src="src/main/resources/listAll.png" alt="Image showing the request in postman with the service that lists all entities">
       </div>
     </li>
     <li>
     <div align="left">
-        <img src="src/main/resources/getById.png" alt="Image showing request in postman with service returns an entity by id" width="320" height="240">
+        <img src="src/main/resources/getById.png" alt="Image showing request in postman with service returns an entity by id">
     </div>    
     </li>
   </ol>
