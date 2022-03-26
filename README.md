@@ -37,14 +37,16 @@
   <summary>How it looks like :star_struck:</summary>
   <ol>
     <li>
-      <div align="left">
+      <h4>Image showing the request in postman with the service that lists all entities</h4>
+      <div>
         <img src="src/main/resources/listAll.png" alt="Image showing the request in postman with the service that lists all entities">
       </div>
     </li>
     <li>
-    <div align="left">
-        <img src="src/main/resources/getById.png" alt="Image showing request in postman with service returns an entity by id">
-    </div>    
+        <h4>Image showing request in postman with service returns an entity by id</h4>
+        <div>
+            <img src="src/main/resources/getById.png" alt="Image showing request in postman with service returns an entity by id">
+        </div>    
     </li>
   </ol>
 </details>
